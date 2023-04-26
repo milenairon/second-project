@@ -1,0 +1,9 @@
+/*Ссылка, оборачивающаяя логотип*/
+.resources__link {
+  text-align: center;
+}
+
+/*Осветление цвета ссылки при наведении*/
+.resources__link:hover {
+  opacity: 0.7;
+}

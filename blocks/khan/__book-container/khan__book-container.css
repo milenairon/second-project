@@ -1,0 +1,5 @@
+/*Контейнер под книгу и ссылку*/
+.khan__book-container {
+  overflow: hidden;
+  margin-top: 68px;
+}

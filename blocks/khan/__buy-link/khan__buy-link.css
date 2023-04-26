@@ -1,0 +1,16 @@
+/*Сылка купить книгу*/
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #2f80ed;
+  position: relative;
+  top: -587px;
+  left: 0;
+}
+
+/*Осветление цвета ссылки при наведении*/
+.khan__buy-link:hover {
+  opacity: 0.7;
+}
