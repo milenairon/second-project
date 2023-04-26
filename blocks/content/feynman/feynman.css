@@ -1,8 +1,0 @@
-/*Блок*/
-.feynman {
-  background-color: #f2f2f2;
-  display: flex;
-  min-height: 890px;
-  flex-direction: column;
-  position: relative;
-}
